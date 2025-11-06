@@ -1,3 +1,4 @@
+https://gibraltar-public-holidays.vercel.app/api/ics
 
 # Gibraltar Public Holidays (2025–2026)
 
