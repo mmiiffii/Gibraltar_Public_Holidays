@@ -42,7 +42,7 @@ function buildICS(years) {
     "VERSION:2.0",
     "CALSCALE:GREGORIAN",
     "METHOD:PUBLISH",
-    `X-WR-CALNAME:Gibraltar public holidays ${years.join(", ")}`
+    `X-WR-CALNAME:Gibraltar Public Holidays ${years.join(", ")}`
   ];
   years.forEach(y => {
     holidays[y].forEach((h, i) => {
