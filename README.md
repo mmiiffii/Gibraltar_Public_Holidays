@@ -31,4 +31,10 @@ api/
 
 > Notes: King’s Birthday dates are marked “Subject to change.” Boxing Day 2026 is observed **in lieu** on Monday 28 December.
 
+2025 info taken from 
+https://www.gibraltar.gov.gi/press-releases/bank-and-public-holidays-2025-10243
+
+2026 info taken from 
+https://www.gibraltar.gov.gi/press-releases/bank-holidays-2026-11299
+
 
