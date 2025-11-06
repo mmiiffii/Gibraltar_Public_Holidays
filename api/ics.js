@@ -28,6 +28,9 @@ const holidays = {
     { name: "Christmas Day", date: "2026-12-25", notes: "" },
     { name: "Boxing Day (in lieu)", date: "2026-12-28", notes: "In lieu of Saturday 26 December." }
   ]
+   2027: [
+    { name: "New Year’s Day", date: "2027-01-01", notes: "" },
+  ]
 };
 
 function dt(y, m, d) {
