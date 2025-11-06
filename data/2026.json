@@ -1,0 +1,110 @@
+[
+  {
+    "year": 2026,
+    "name": "New Year\u2019s Day",
+    "date": "2026-01-01",
+    "country": "GI",
+    "location": "Gibraltar",
+    "all_day": true,
+    "notes": ""
+  },
+  {
+    "year": 2026,
+    "name": "Winter Midterm Bank Holiday",
+    "date": "2026-02-16",
+    "country": "GI",
+    "location": "Gibraltar",
+    "all_day": true,
+    "notes": ""
+  },
+  {
+    "year": 2026,
+    "name": "Good Friday",
+    "date": "2026-04-03",
+    "country": "GI",
+    "location": "Gibraltar",
+    "all_day": true,
+    "notes": ""
+  },
+  {
+    "year": 2026,
+    "name": "Easter Monday",
+    "date": "2026-04-06",
+    "country": "GI",
+    "location": "Gibraltar",
+    "all_day": true,
+    "notes": ""
+  },
+  {
+    "year": 2026,
+    "name": "Workers\u2019 Memorial Day",
+    "date": "2026-04-28",
+    "country": "GI",
+    "location": "Gibraltar",
+    "all_day": true,
+    "notes": ""
+  },
+  {
+    "year": 2026,
+    "name": "May Day",
+    "date": "2026-05-01",
+    "country": "GI",
+    "location": "Gibraltar",
+    "all_day": true,
+    "notes": ""
+  },
+  {
+    "year": 2026,
+    "name": "Spring Bank Holiday",
+    "date": "2026-05-25",
+    "country": "GI",
+    "location": "Gibraltar",
+    "all_day": true,
+    "notes": ""
+  },
+  {
+    "year": 2026,
+    "name": "King\u2019s Birthday",
+    "date": "2026-06-15",
+    "country": "GI",
+    "location": "Gibraltar",
+    "all_day": true,
+    "notes": "Subject to change."
+  },
+  {
+    "year": 2026,
+    "name": "Late Summer Bank Holiday",
+    "date": "2026-08-31",
+    "country": "GI",
+    "location": "Gibraltar",
+    "all_day": true,
+    "notes": ""
+  },
+  {
+    "year": 2026,
+    "name": "Gibraltar National Day",
+    "date": "2026-09-10",
+    "country": "GI",
+    "location": "Gibraltar",
+    "all_day": true,
+    "notes": ""
+  },
+  {
+    "year": 2026,
+    "name": "Christmas Day",
+    "date": "2026-12-25",
+    "country": "GI",
+    "location": "Gibraltar",
+    "all_day": true,
+    "notes": ""
+  },
+  {
+    "year": 2026,
+    "name": "Boxing Day (in lieu)",
+    "date": "2026-12-28",
+    "country": "GI",
+    "location": "Gibraltar",
+    "all_day": true,
+    "notes": "In lieu of Saturday 26 December."
+  }
+]
