@@ -217,4 +217,13 @@
     "all_day": true,
     "notes": "In lieu of Saturday 26 December."
   }
+   {
+    "year": 2027,
+    "name": "New Year\u2019s Day",
+    "date": "2027-01-01",
+    "country": "GI",
+    "location": "Gibraltar",
+    "all_day": true,
+    "notes": ""
+  },
 ]
