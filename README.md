@@ -31,27 +31,4 @@ api/
 
 > Notes: King’s Birthday dates are marked “Subject to change.” Boxing Day 2026 is observed **in lieu** on Monday 28 December.
 
-## Deploy an API + ICS feed on Vercel
 
-1. Push this repo to GitHub.
-2. Import the repo in Vercel.
-3. You’ll get endpoints like:
-   - `https://<project>.vercel.app/api/holidays` (all years, JSON)
-   - `https://<project>.vercel.app/api/holidays?year=2025` (single year, JSON)
-   - `https://<project>.vercel.app/api/ics` (all years, ICS)
-   - `https://<project>.vercel.app/api/ics?year=2026` (single year, ICS)
-
-These endpoints set `Access-Control-Allow-Origin: *`, so you can call them from web apps.
-
-## Static hosting (GitHub Pages / S3 / Netlify)
-
-You can also host the static files and let people subscribe to the `.ics` directly. Ensure the **Content-Type** is `text/calendar` for `.ics` files.
-
-## Contributing
-
-- Add another year by editing `api/holidays.js` and `api/ics.js` *and* the files under `data/` and `ics/`.
-- PRs welcome.
-
-## License
-
-MIT
